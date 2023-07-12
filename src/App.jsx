@@ -115,9 +115,6 @@ function App() {
           ))}
         </Carousel>
       </div>
-      <div id='publi' className='publicidad'>
-        <img className='publicidad-img' src='./productos/publi.png'></img>
-      </div>
       <div ref={destinoRef} id='destino' className='categorias'>
         {ProductosFiltrados.map(producto => (
           <ul className='ul-categoria' key={producto.id}>

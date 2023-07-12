@@ -173,28 +173,6 @@
   text-align: center;
 }
 
-#publi{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.publicidad {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.publicidad-img {
-  margin-bottom: 3vh;
-  margin-top: 5vh;
-  object-fit: cover;
-  width: 80%;
-  height: 50vh;
-  border-radius: 5px;
-  border: 1px solid rgb(24, 24, 24);
-}
-
 .precio-categoria {
   color: rgb(134, 164, 245);
   font-size: 1.8em;
@@ -229,8 +207,5 @@
 
   .titulo-h2 {
     display: none;
-  }
-  .publicidad-img {
-    width: 97%;
   }
 }
