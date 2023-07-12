@@ -18,15 +18,15 @@ function App() {
 
   const images = [
     {
-      'url' : './inicio-derecha.png',
+      'url' : './productos/inicio-derecha.png',
       'title' : 'imagen 1'
     },
     {
-      'url' : './inicio.jpg',
+      'url' : './productos/inicio.jpg',
       'title' : 'imagen 2'
     },
     {
-      'url' : './nike-c-a.png',
+      'url' : './productos/nike-c-a.png',
       'title' : 'imagen 2'
     }
   ]
@@ -117,7 +117,7 @@ function App() {
       </div>
       <div className='publicidad'>
 
-        <img className='publicidad-img' src='./pub.png'></img>
+        <img className='publicidad-img' src='./productos/pub.png'></img>
 
       </div>
       <div ref={destinoRef} id='destino' className='categorias'>
