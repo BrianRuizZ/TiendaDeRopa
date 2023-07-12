@@ -116,7 +116,7 @@ function App() {
         </Carousel>
       </div>
       <div className='publicidad'>
-        <img className='publicidad-img' src='./productos/pub.png'></img>
+        <img className='publicidad-img' src='./productos/publi.png'></img>
       </div>
       <div ref={destinoRef} id='destino' className='categorias'>
         {ProductosFiltrados.map(producto => (
