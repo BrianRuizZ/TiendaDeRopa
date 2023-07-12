@@ -1,0 +1,122 @@
+{
+    "productos" : [
+        {
+            "id": 1,
+            "nombre": "Remera Negra",
+            "categoria":"remeras",
+            "precio": 60,
+            "imagen": "./Remera-Negra.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Carpintero",
+            "categoria":"pantalones",
+            "precio": 70,
+            "imagen": "./carpintero.jpeg"
+
+        },
+        {
+            "id": 3,
+            "nombre": "Cargo",
+            "categoria":"pantalones",
+            "precio": 78,
+            "imagen": "./cargo.png"
+
+        },
+        {
+            "id": 4,
+            "nombre": "Lola",
+            "categoria":"pantalones",
+            "precio": 60,
+            "imagen": "./PantalonLola.png"
+
+        },
+        {
+            "id": 5,
+            "nombre": "Medias Nike",
+            "categoria":"medias",
+            "precio": 2,
+            "imagen": "./medias.png"
+
+        },
+        {
+            "id": 6,
+            "nombre": "Buzo Adidas",
+            "categoria":"buzos",
+            "precio": 120,
+            "imagen": "./buzo-adidas.png"
+
+        },
+        {
+            "id": 7,
+            "nombre": "Pantalon PK",
+            "categoria":"pantalones",
+            "precio": 80,
+            "imagen": "./pantalonPK.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Zapatilla Adidas",
+            "categoria":"zapatillas",
+            "precio": 120,
+            "imagen": "./inicio-zapatilla.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Medias Adidas",
+            "categoria":"medias",
+            "precio": 2,
+            "imagen": "./medias-adidas.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Medias",
+            "categoria":"medias",
+            "precio": 1,
+            "imagen": "./medias-a.png"
+        },
+        {
+            "id": 11,
+            "nombre": "Overside Verde",
+            "categoria":"remeras",
+            "precio": 48,
+            "imagen": "./remeras-overside-a.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Overside Negro",
+            "categoria":"remeras",
+            "precio": 48,
+            "imagen": "./remeras-overside-b.png"
+        },
+        {
+            "id": 13,
+            "nombre": "Buzo Adidas",
+            "categoria":"buzos",
+            "precio": 118,
+            "imagen": "./buzo-deporte-a.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Nike Air",
+            "categoria":"zapatillas",
+            "precio": 128,
+            "imagen": "./nike-air-a.png"
+        },
+        {
+            "id": 15,
+            "nombre": "Nike Low",
+            "categoria":"zapatillas",
+            "precio": 138,
+            "imagen": "./nike-low.png"
+        },
+        {
+            "id": 16,
+            "nombre": "Nike Court",
+            "categoria":"zapatillas",
+            "precio": 168,
+            "imagen": "./nike-court.png"
+        }
+        
+    ]
+}
