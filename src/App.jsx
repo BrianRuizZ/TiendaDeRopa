@@ -116,9 +116,7 @@ function App() {
         </Carousel>
       </div>
       <div className='publicidad'>
-
         <img className='publicidad-img' src='./productos/pub.png'></img>
-
       </div>
       <div ref={destinoRef} id='destino' className='categorias'>
         {ProductosFiltrados.map(producto => (
@@ -134,7 +132,7 @@ function App() {
           Seguinos en nuestras redes. 
         </p>
           <a className='icon-footer'
-            href='www.instagram.com'>
+            href='#'>
             <BsInstagram/></a>
           <a className='icon-footer'
             href='#'>
