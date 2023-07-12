@@ -115,7 +115,7 @@ function App() {
           ))}
         </Carousel>
       </div>
-      <div className='publicidad'>
+      <div id='publi' className='publicidad'>
         <img className='publicidad-img' src='./productos/publi.png'></img>
       </div>
       <div ref={destinoRef} id='destino' className='categorias'>

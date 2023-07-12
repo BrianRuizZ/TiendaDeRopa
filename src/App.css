@@ -173,6 +173,12 @@
   text-align: center;
 }
 
+#publi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .publicidad {
   display: flex;
   justify-content: center;
