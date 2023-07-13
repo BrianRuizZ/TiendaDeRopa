@@ -138,7 +138,7 @@
   line-height: 10px;
   font-family: monospace;
   font-size: 1.1em;
-  color: rgb(229, 179, 248);
+  color: rgb(240, 133, 33);
 
 }
 
@@ -147,13 +147,13 @@
   justify-content: center;
   align-items: center;
   font-size: 1.2em;
-  color: rgba(229, 179, 248,0.8);
+  color: rgb(240, 133, 33);
   margin-right: 5px;
   margin-left: 5px;
 }
 
 .icon-footer:hover {
-  color: rgb(126, 144, 245);
+  color: rgba(255, 174, 98, 0.897);
 }
 
 .categorias {
@@ -194,14 +194,17 @@
 }
 
 .precio-categoria {
-  color: rgb(134, 164, 245);
+  color: rgb(255, 115, 22);
   font-size: 1.8em;
   margin: 0;
   padding: 5px;
 }
 
 .producto-nombre {
-  color: rgb(229, 179, 248);
+  text-transform: uppercase;
+  color: rgb(255, 115, 22);
+  line-height: 10px;
+  text-decoration: overline;
 }
 
 @media (max-width: 850px) {
