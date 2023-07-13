@@ -93,7 +93,7 @@ function App() {
             placeholder='¿Que estas buscando? 🔎'>
             </input>
           </li>
-          <li className='li-nav titulo-h2'><h2>Excelencia</h2><span className='span-tituloh2'>Shop</span></li>
+          <li className='li-nav titulo-h2'><img className='logo' src='./ExcelenciaLogo.png'></img></li>
           <li className='li-nav'>
             <select onChange={handleChangeCategory} className='select-nav'>
               <option value='todo'>Todo</option>
