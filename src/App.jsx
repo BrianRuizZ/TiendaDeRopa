@@ -115,6 +115,12 @@ function App() {
           ))}
         </Carousel>
       </div>
+      <h3 className='texto-categoria'><a id="categorias-a" className='texto-categoria-a' href='#categorias-a'>Descubre una nueva forma de experimentar la excelencia: nuestros productos están aquí para cautivarte y superar tus expectativas.</a></h3>
+      <div 
+        className='flecha-cont'
+        onClick={toDestino}>
+          <div className='flecha'></div>
+      </div>
       <div ref={destinoRef} id='destino' className='categorias'>
         {ProductosFiltrados.map(producto => (
           <ul className='ul-categoria' key={producto.id}>
