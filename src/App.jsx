@@ -87,6 +87,7 @@ function App() {
             <input
             onChange={handleBusqueda}
             onClick={()=> toDestino()}
+            onTouchStart={()=> toDestino()}
             className="busqueda-input" 
             type='text' 
             placeholder='¿Que estas buscando? 🔎'>
